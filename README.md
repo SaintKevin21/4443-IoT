@@ -2,7 +2,7 @@
 
 ## Kevin Kangethe
 
-## Course Info 4443 - IoT
+## Course Info 4443 - Internet of Things
 
 ## kkangethe21n@gmail.com
 
