@@ -7,6 +7,10 @@
 | [Part 2 Code .pdf](https://github.com/user-attachments/files/21148365/Part.2.Code.pdf)|
 | |
 | [Part 3: Potentiometer-Controlled Blink Rate](https://github.com/user-attachments/assets/2b1b5909-7fcc-4142-8ff4-ddeeaf45efae) |
+| [Part 3 Code .pdf](https://github.com/user-attachments/files/21148463/Part.3.Code.pdf) |
+| |
+
+
 
 
 
