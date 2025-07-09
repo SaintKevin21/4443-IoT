@@ -1,6 +1,6 @@
 |                              Lab 1: LED Fundamentals                            |
 | :------------------------------------------------------------------------: |
-|   [Part 1: Powering one LED] Part 1 Powering one LED:
+|   [Part 1: Powering one LED]| |Part 1 Powering one LED:
 void setup() {
  pinMode(5, OUTPUT);
 }
