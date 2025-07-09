@@ -6,6 +6,6 @@
 | [ Part 2: Powering two LED's](https://github.com/user-attachments/assets/554449ab-8ea3-4fa4-96ae-ab1a3399d6e5)|
 | [Part 2 Code .pdf](https://github.com/user-attachments/files/21148365/Part.2.Code.pdf)|
 | |
-
+| [Part 3: Potentiometer-Controlled Blink Rate]
 
 
