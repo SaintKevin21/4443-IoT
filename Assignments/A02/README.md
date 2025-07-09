@@ -1,3 +1,3 @@
 |                              Repo URL                             |
 | :------------------------------------------------------------------------: |
-|   (https://github.com/SaintKevin21/4443-IoT)|
+|   https://github.com/SaintKevin21/4443-IoT|
