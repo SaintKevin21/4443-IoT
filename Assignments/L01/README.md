@@ -10,6 +10,11 @@
 | [Part 3 Code .pdf](https://github.com/user-attachments/files/21148463/Part.3.Code.pdf) |
 | |
 | [Part 4: RGB LED Control: Option A](https://github.com/user-attachments/assets/1008468f-1898-4c7d-bb80-02a5d3034334)|
+| [Part 4_ Option A Code .pdf](https://github.com/user-attachments/files/21148560/Part.4_.Option.A.Code.pdf)|
+| |
+| [Part 4: RGB LED Control: Option B](https://github.com/user-attachments/assets/f06f95e8-f4e2-467a-bdd4-d90c659f1fbe)|
+|[Part 4_ Option B Code .pdf](https://github.com/user-attachments/files/21148596/Part.4_.Option.B.Code.pdf)|
+
 
 
 
