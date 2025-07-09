@@ -8,6 +8,7 @@
 | |
 | [Part 3: Potentiometer-Controlled Blink Rate](https://github.com/user-attachments/assets/2b1b5909-7fcc-4142-8ff4-ddeeaf45efae) |
 | [Part 3 Code .pdf](https://github.com/user-attachments/files/21148463/Part.3.Code.pdf) |
+| |
 | [Part 4: RGB LED Control: Option A](https://github.com/user-attachments/assets/1008468f-1898-4c7d-bb80-02a5d3034334)|
 
 
