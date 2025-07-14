@@ -10,4 +10,10 @@
 | Arduino ide |
 |Processing ide |
 | [Processing ide code.pdf](https://github.com/user-attachments/files/21221200/Processing.ide.code.pdf) |
+|[Arduino ide code.pdf](https://github.com/user-attachments/files/21221239/Arduino.ide.code.pdf)|
+
+
+
+
+https://github.com/user-attachments/assets/b5ed8dfc-ad02-4ebe-bee2-19cafad63b14
 
