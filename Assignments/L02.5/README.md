@@ -6,4 +6,4 @@
 |2x 9014 Transitors |
 | 2x 68k OHM resistors |
 | Some wires |
-| Battery / power source| 
+| 3V Battery or any power source| 
