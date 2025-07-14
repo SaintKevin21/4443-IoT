@@ -7,3 +7,4 @@
 | 2x 68k OHM resistors |
 | Some wires |
 | 3V Battery or any power source| 
+| BreadBoard |
