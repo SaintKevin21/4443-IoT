@@ -6,5 +6,5 @@
 |  2  | [A02](./A02/README.md)     | [Sumbit your Github Repo](./A02/README.md)|
 |  3  | [L01](./L01/README.md)     | [Lab 1: LED Fundamentals](./L01/README.md)|
 |  4  | [L02.5](./L02.5/README.md)     | [Lab 2.5: LED Circuit](./L02.5/README.md)|
-|  5  | [PO1](./PO1/README.md)     | [Personal Project 1: Radar sensror](./PO1/README.md)|
+|  5  | [PP1](./PP1/README.md)     | [Personal Project 1: Radar sensror](./PP1/README.md)|
 
