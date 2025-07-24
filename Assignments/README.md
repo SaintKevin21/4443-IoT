@@ -7,5 +7,6 @@
 |  3  | [L01](./L01/README.md)     | [Lab 1: LED Fundamentals](./L01/README.md)|
 |  4  | [L02.5](./L02.5/README.md)     | [Lab 2.5: LED Circuit](./L02.5/README.md)|
 |  5  | [PP1](./PP1/README.md)     | [Personal Project 1: Radar sensror](./PP1/README.md)|
-|  3  | [LO3](./LO3/README.md)     | [Lab 3: Pcb Lab - Soldering a Sonic Led Level Meter](./LO3/README.md)|
+|  6  | [LO3](./LO3/README.md)     | [Lab 3: Pcb Lab - Soldering a Sonic Led Level Meter](./LO3/README.md)|
+|  7  | [PP2](./PP2/README.md)     | [Personal Project 2: Ready Set Go!](./PP2/README.md)|
 
