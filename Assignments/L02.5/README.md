@@ -1,5 +1,6 @@
 |                              Lab 2.5: LED Circuit                           |
 | :------------------------------------------------------------------------: |
+
 #💡 Lab 2.5: LED Circuit with Transistors and Capacitors#
 *This lab demonstrates a basic LED circuit using NPN transistors, capacitors, and resistors to create a simple blinking or alternating LED effect. It's a classic beginner-friendly project to learn about transistor switching and timing behavior with passive components.*
 
