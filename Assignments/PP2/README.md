@@ -1,4 +1,9 @@
-|                              Personal Project: Ready Set Go!                         |
+
+# 🏁 Personal Project: Ready Set Go!
+*This project combines an HC-SR04 ultrasonic sensor, a servo motor, and an LCD display to create a "Ready–Set–Go" style system. The ultrasonic sensor detects when an object is in position, the LCD displays countdown messages, and the servo can be triggered to start a mechanism once the countdown ends.*
+
+## 🧰 Components Required
+|                                                     |
 | :------------------------------------------------------------------------: |
 |Requirements |
 | 1x Servo |
