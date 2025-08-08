@@ -33,7 +33,6 @@ Tweak thresholds or distance ranges in the Arduino code to change LED lighting b
 ### 🧰 Components Required
 |                             |
 | :------------------------------------------------------------------------: |
-|Requirements |
 | 1x HC-SR04 |
 |BreadBoard |
 | Arduino ide |
