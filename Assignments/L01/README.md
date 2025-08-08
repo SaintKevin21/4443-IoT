@@ -7,7 +7,7 @@
 💡 Single LED Control
 Power and control a single LED using a digital pin.
 
-🔌 Two Independent LEDs
+## 🔌 Two Independent LEDs ##
 Control two LEDs separately through different digital outputs.
 
 🎚️ Potentiometer Brightness Control
