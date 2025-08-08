@@ -1,4 +1,4 @@
-#⛳ Arduino Mini Golf Game – 3D Printed
+# ⛳ Arduino Mini Golf Game – 3D Printed
 *This project combines Arduino electronics with 3D printing to create a playable miniature golf game. It includes a fully 3D-printed golf course, controller case, clubs, and balls—along with an Arduino-powered control system using a servo motor and joystick for interactive gameplay.*
 
 ## ⚙️ How It Works
