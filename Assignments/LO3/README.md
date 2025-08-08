@@ -4,6 +4,30 @@
 ## Project Overview
 The ultrasonic sensor scans distances and interprets them to light up a series of LEDs—mimicking a level meter display. Soldered components on a PCB make for a more permanent and robust version compared to breadboard prototypes.
 
+# Notes & Tips
+## PCB Assembly:## Follow the included diagrams or photos for accurate LED placement and soldering orientation.
+
+HC-SR04 Wiring:
+
+VCC → 5 V
+
+GND → GND
+
+TRIG → Digital pin X
+
+ECHO → Digital pin Y
+
+## Soldering Best Practices:
+
+Use proper temperature control to avoid overheating components.
+
+Ensure clean, soldered joints for reliable operation.
+
+Test the circuit on a breadboard before final PCB committing.
+
+## Adjustments: Tweak thresholds or distance ranges in the Arduino code to change LED lighting behavior.
+
+
 ### 🧰 Components Required
 |                             |
 | :------------------------------------------------------------------------: |
