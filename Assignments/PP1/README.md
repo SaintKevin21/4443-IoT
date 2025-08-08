@@ -2,7 +2,7 @@
 # 📡 Personal Project: Arduino Radar Sensor
 *This project uses an HC-SR04 ultrasonic sensor mounted on a servo motor to create a simple radar system. The Arduino controls the servo to scan an area while the ultrasonic sensor measures distances. Data is sent to the Processing IDE for a real-time graphical display, simulating a radar sweep.*
 
-## #⚙️ How It Works
+### ⚙️ How It Works
 Servo Control – The Arduino sweeps the servo motor back and forth.
 
 Distance Measurement – At each angle, the HC-SR04 measures the distance to an object.
