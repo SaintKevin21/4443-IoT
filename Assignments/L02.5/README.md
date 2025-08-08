@@ -9,6 +9,8 @@ Each transistor drives one LED and is triggered by the capacitor connected to th
 
 ## 🧰 Components Required
 
+|                                                          |
+| :------------------------------------------------------------------------: |
 | 2x LED|
 | 2x capacitors 100 uF |
 | 2x 9014 Transitors |
