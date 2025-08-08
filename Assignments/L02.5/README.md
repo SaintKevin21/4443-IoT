@@ -1,4 +1,4 @@
-|                              Lab 2.5: LED Circuit                           |
+
 | :------------------------------------------------------------------------: |
 
 # 💡 Lab 2.5: LED Circuit with Transistors and Capacitors#
