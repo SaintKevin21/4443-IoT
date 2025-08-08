@@ -50,6 +50,13 @@ Jumper wires
 
 Breadboard (optional for prototyping)
 
+## videos
+
+
+https://github.com/user-attachments/assets/2498d48b-f45d-4fa0-b62e-bd169ae2a100
+
+
+
 
 
 
