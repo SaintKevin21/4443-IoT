@@ -1,7 +1,7 @@
 |                              Lab 1: LED Fundamentals                            |
 | :------------------------------------------------------------------------: |
 # 🔧 Project Overview #
-* This Arduino project demonstrates various ways to control LEDs using simple components and code. It includes multiple LED setups and interactive features that are great for beginners and those experimenting with basic Arduino circuits. *
+*This Arduino project demonstrates various ways to control LEDs using simple components and code. It includes multiple LED setups and interactive features that are great for beginners and those experimenting with basic Arduino circuits.*
 
 📋 Features
 💡 Single LED Control
