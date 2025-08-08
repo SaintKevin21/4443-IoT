@@ -16,6 +16,7 @@ Each transistor drives one LED and is triggered by the capacitor connected to th
 | Some wires |
 | 3V Battery or any power source| 
 | BreadBoard |
+||
 
 https://github.com/user-attachments/assets/d1f29f4b-5e37-4d3c-be44-162f485da9c3
 
