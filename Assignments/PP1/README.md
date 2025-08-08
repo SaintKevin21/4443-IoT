@@ -13,6 +13,8 @@ Radar Visualization – The Processing IDE reads the data and displays it as a r
 
 ## 🧰 Components Required
 
+||
+| :------------------------------------------------------------------------: |
 | 1x Servo |
 | 1x HC-SR04 |
 | some male to male  wires |
