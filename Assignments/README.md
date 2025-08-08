@@ -9,4 +9,5 @@
 |  5  | [PP1](./PP1/README.md)     | [Personal Project 1: Radar sensror](./PP1/README.md)|
 |  6  | [LO3](./LO3/README.md)     | [Lab 3: Pcb Lab - Soldering a Sonic Led Level Meter](./LO3/README.md)|
 |  7  | [PP2](./PP2/README.md)     | [Personal Project 2: Ready Set Go!](./PP2/README.md)|
+|  8  | [L04](./L04/README.md)     | [Lab 4: Final Project - Putt Putt](./L04/README.md)|
 
