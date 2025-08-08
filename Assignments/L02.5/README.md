@@ -9,7 +9,6 @@ This circuit uses capacitor charging/discharging and transistor switching to alt
 Each transistor drives one LED and is triggered by the capacitor connected to the opposite side. The resistor values and capacitor sizes determine the blink rate.
 
 🧰 Components Required
-||
 |2x LED|
 |2x capacitors 100 uF |
 |2x 9014 Transitors |
@@ -17,7 +16,6 @@ Each transistor drives one LED and is triggered by the capacitor connected to th
 | Some wires |
 | 3V Battery or any power source| 
 | BreadBoard |
-
 
 https://github.com/user-attachments/assets/d1f29f4b-5e37-4d3c-be44-162f485da9c3
 
