@@ -26,7 +26,7 @@ Ensure clean, soldered joints for reliable operation.
 
 Test the circuit on a breadboard before final PCB committing.
 
-## Adjustments:##
+## Adjustments:
 Tweak thresholds or distance ranges in the Arduino code to change LED lighting behavior.
 
 
