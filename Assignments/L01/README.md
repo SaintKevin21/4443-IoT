@@ -3,7 +3,7 @@
 # 🔧 Project Overview #
 *This Arduino project demonstrates various ways to control LEDs using simple components and code. It includes multiple LED setups and interactive features that are great for beginners and those experimenting with basic Arduino circuits.*
 
-📋 Features
+###📋 Features###
 💡 Single LED Control
 Power and control a single LED using a digital pin.
 
