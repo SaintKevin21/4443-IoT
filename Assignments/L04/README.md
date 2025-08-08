@@ -56,6 +56,7 @@ Breadboard (optional for prototyping)
 https://github.com/user-attachments/assets/2498d48b-f45d-4fa0-b62e-bd169ae2a100
 
 
+[Arduino code.pdf](https://github.com/user-attachments/files/21691265/Arduino.code.pdf)
 
 
 
