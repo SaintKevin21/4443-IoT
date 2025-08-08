@@ -12,6 +12,22 @@
 ### 3. Servo Activation
 – When “Go” is displayed, the servo moves to trigger your start mechanism (e.g., opening a gate, starting a timer, etc.).
 
+## 📝 Notes
+Make sure the LCD I2C address matches your hardware (commonly 0x27 or 0x3F).
+
+HC-SR04 wiring:
+
+VCC → 5V
+
+GND → GND
+
+TRIG → Digital pin X
+
+ECHO → Digital pin Y
+
+Servo power should be stable—use an external power source if possible to prevent resets.
+
+Adjust countdown speed and detection range in the Arduino code.
 
 
 ## 🧰 Components Required
